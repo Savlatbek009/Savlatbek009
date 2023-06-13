@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullayev Savlatbek</h1>
-<h3 align="center">A junior developer from Tashkent</h3>
+<h1>Hi 👋, I'm Abdullayev Savlatbek</h1>
+<h3>A junior developer from Tashkent</h3>
 
 - 🌱 I’m currently learning **ReactJS in "Najot Ta'lim"**
 
