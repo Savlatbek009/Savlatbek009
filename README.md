@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullayev Savlatbek</h1>
-<h3 align="center">A junior developer from Tashkent</h3>
+<h1>Hi 👋, I'm Abdullayev Savlatbek</h1>
+<h3>A junior developer from Tashkent</h3>
 <img aling="right" width="400" alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 - 🌱 I’m currently learning **ReactJS in "Najot Ta'lim"**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **savlatbek009@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/savlatbek-abdullayev-875933252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/savlatbek-abdullayev-875933252/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/savlatbek_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/savlatbek_coder/" height="30" width="40" /></a>
