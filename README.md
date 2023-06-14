@@ -1,4 +1,4 @@
-<img  width="100%" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
+<img  width="100%" src="https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif" />
 <h1 align="center">Hi 👋, I'm Abdullayev Savlatbek</h1>
 <h3 align="center">A junior developer from Tashkent</h3>
 <br />
