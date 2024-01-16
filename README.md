@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullayev Savlatbek</h1>
 
-------------------------------
 
 # 💫 About Me:
 🔭 I’m currently working on "Technolife"<br>🌱 I’m currently learning "NodeJS"<br>💬 Ask me about "ReactJS"<br>📫 How to reach me "savlatbek009@gmail.com"<br>☎️ Phone: "+998 90 447 75 15"
